@@ -1,15 +1,9 @@
-![banner](https://portal.stackx.com.br/wp-content/uploads/2022/03/5.jpg)
-
-<h1 align="center">Olá 👋, eu sou o estudante Leonardo Santos</h1>
+<h1 align="center">Olá 👋, eu sou o Leonardo Santos (Estudante de Tecnologia)</h1>
 <h3 align="center">Aqui você encontra conteúdos diversos</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leojosants&label=Profile%20views&color=0e75b6&style=flat" alt="leojosants" /> </p>
-
-- 🔭 No momento estou estudando na [Portal STACKX](https://portal.stackx.com.br/)
-
-- 🌱 Atualmente estou me aperfeiçoando em **Java**
-
-- Procuro colaborar com [FabDev](https://www.fabdev.com.br/)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=leojosants&label=Profile%20views&color=0e75b6&style=flat" alt="leojosants" /> 
+</p>
 
 - 👨‍💻 Projetos disponíveis em: [https://github.com/leojosants/leojosants](https://github.com/leojosants/leojosants)
 
