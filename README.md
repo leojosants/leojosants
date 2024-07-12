@@ -7,7 +7,7 @@
 
 - 👨‍💻 Projetos disponíveis em: [https://github.com/leojosants/leojosants](https://github.com/leojosants/leojosants)
 
-- 📝 Escrevo regularmente no site: [https://www.linkedin.com/in/leojosantos/](https://www.linkedin.com/in/leojosantos/)
+- 📝 Escrevo regularmente no site: [https://www.linkedin.com/in/leojosantos/](https://www.linkedin.com/in/leojosants/)
 
 - 📫 Contato: **leonardojosantos@gmail.com**
 
