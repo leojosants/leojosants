@@ -1,17 +1,17 @@
-<h1 align="center">Olá 👋, eu sou o Leonardo Santos (Estudante de Tecnologia)</h1>
-<h3 align="center">Aqui você encontra conteúdos diversos</h3>
+<h1 align="center">Hello 👋, I'm Leonardo Santos (Technology Student)</h1>
+<h3 align="center">Here you will find diverse content</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=leojosants&label=Profile%20views&color=0e75b6&style=flat" alt="leojosants" /> 
 </p>
 
-- 👨‍💻 Projetos disponíveis em: [https://github.com/leojosants/leojosants](https://github.com/leojosants/leojosants)
+- 👨‍💻 Projects available at: [https://github.com/leojosants/leojosants](https://github.com/leojosants/leojosants)
 
-- 📝 Escrevo regularmente no site: [https://www.linkedin.com/in/leojosantos/](https://www.linkedin.com/in/leojosants/)
+- 📝 I write regularly on the site: [https://www.linkedin.com/in/leojosantos/](https://www.linkedin.com/in/leojosants/)
 
-- 📫 Contato: **leonardojosantos@gmail.com**
+- 📫 Contact: **leonardojosantos@gmail.com**
 
-- 📄 Sobre mim: [https://www.instagram.com/leo.j.o.santss/](https://www.instagram.com/leo.j.o.santss/)
+- 📄 About me: [https://www.instagram.com/leo.j.o.santss/](https://www.instagram.com/leo.j.o.santss/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
